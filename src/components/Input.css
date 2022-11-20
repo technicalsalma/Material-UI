@@ -1,0 +1,7 @@
+/* Material Ui default input outline color changed */
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root.Mui-focused{
+    color: #1d72e7 !important;
+}
+.MuiOutlinedInput-notchedOutline{
+    border-color: #1d72e7 !important;
+}
