@@ -5,3 +5,7 @@
 .MuiOutlinedInput-notchedOutline{
     border-color: #1d72e7 !important;
 }
+
+.input{
+    margin-top: 100px;
+}

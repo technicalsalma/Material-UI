@@ -5,8 +5,8 @@ import './Input.css'
 
 export default function Input() {
   return (
-    <Box
-      component="form"
+    <Box className='input'
+     component="form"
       sx={{
         '& > :not(style)': { m: 1, width: '25ch' },
       }}
